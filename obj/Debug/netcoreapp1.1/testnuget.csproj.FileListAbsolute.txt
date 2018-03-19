@@ -1,0 +1,8 @@
+C:\Users\Farooq\testnuget\bin\Debug\netcoreapp1.1\testnuget.deps.json
+C:\Users\Farooq\testnuget\bin\Debug\netcoreapp1.1\testnuget.runtimeconfig.json
+C:\Users\Farooq\testnuget\bin\Debug\netcoreapp1.1\testnuget.runtimeconfig.dev.json
+C:\Users\Farooq\testnuget\bin\Debug\netcoreapp1.1\testnuget.dll
+C:\Users\Farooq\testnuget\bin\Debug\netcoreapp1.1\testnuget.pdb
+C:\Users\Farooq\testnuget\obj\Debug\netcoreapp1.1\testnuget.AssemblyInfo.cs
+C:\Users\Farooq\testnuget\obj\Debug\netcoreapp1.1\testnuget.dll
+C:\Users\Farooq\testnuget\obj\Debug\netcoreapp1.1\testnuget.pdb
