@@ -7452,16 +7452,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Farooq\\testnuget\\testnuget.csproj",
+      "projectUniqueName": "c:\\Users\\Farooq\\Newtonsoft_JSON_NugetPKG\\testnuget.csproj",
       "projectName": "testnuget",
-      "projectPath": "c:\\Users\\Farooq\\testnuget\\testnuget.csproj",
-      "outputPath": "c:\\Users\\Farooq\\testnuget\\obj\\",
+      "projectPath": "c:\\Users\\Farooq\\Newtonsoft_JSON_NugetPKG\\testnuget.csproj",
+      "outputPath": "c:\\Users\\Farooq\\Newtonsoft_JSON_NugetPKG\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/testnuget.dll": "c:\\Users\\Farooq\\testnuget\\bin\\placeholder\\netcoreapp1.1\\testnuget.dll"
+        "lib/netcoreapp1.1/testnuget.dll": "c:\\Users\\Farooq\\Newtonsoft_JSON_NugetPKG\\bin\\placeholder\\netcoreapp1.1\\testnuget.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
