@@ -13,6 +13,10 @@ namespace testnuget
 
     class Program
     {
+        public Program()
+        {
+        }
+
         static void Main(string[] args)
         {
             Account account = new Account
